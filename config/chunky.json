@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "language": "en",
+  "continueOnRestart": false,
+  "tasks": {
+    "minecraft:overworld": {
+      "cancelled": true,
+      "radius": 1600.0,
+      "centerX": 0.0,
+      "centerZ": 0.0,
+      "iterator": "concentric",
+      "shape": "square",
+      "count": 40351,
+      "time": 5983157
+    },
+    "minecraft:the_nether": {
+      "cancelled": true,
+      "radius": 200.0,
+      "centerX": 0.0,
+      "centerZ": 0.0,
+      "iterator": "concentric",
+      "shape": "square",
+      "count": 679,
+      "time": 67998
+    }
+  }
+}

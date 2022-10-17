@@ -1,0 +1,168 @@
+[00:53:57] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[00:53:57] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2022.10.17_00-53-57
+[00:53:57] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:53:57] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:54:16] [pool-3-thread-1/INFO]: [Textile Backup] Compression took: 19.395 seconds.
+[00:54:16] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2022.10.15_03-04-53.zip
+[00:54:16] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[02:02:40] [User Authenticator #7/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[02:02:40] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:48085] logged in with entity id 98053 at (-125.46834939083443, 63.0, 850.5622419571907)
+[02:02:40] [Server thread/INFO]: Herr_LiuJ joined the game
+[02:02:40] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[02:02:41] [Netty Epoll Server IO #1/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[02:02:41] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[02:10:26] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/98053, l='ServerLevel[world]', x=-39.43, y=69.00, z=761.58] at TeleportTarget{pitch=15.0246525, position=(-16.426412189894798, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.97098}
+[02:10:27] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:10:27] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[02:11:15] [User Authenticator #8/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[02:11:15] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[02:11:15] [Server thread/INFO]: Herr_LiuJ left the game
+[02:11:15] [Server thread/WARN]: handleDisconnection() called twice
+[02:11:15] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:10769] logged in with entity id 99527 at (-131.7771343411261, 57.0, 155.45436352083857)
+[02:11:15] [Server thread/INFO]: Herr_LiuJ joined the game
+[02:11:15] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[02:11:16] [Netty Epoll Server IO #3/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[02:11:17] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[02:12:13] [Server thread/INFO]: Herr_LiuJ has made the advancement [A Terrible Fortress]
+[02:12:29] [Server thread/INFO]: Herr_LiuJ has made the advancement [Spooky Scary Skeleton]
+[02:13:01] [dimthread_the_nether/INFO]: Herr_LiuJ was slain by Wither Skeleton
+[02:13:03] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[02:13:03] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:13:03] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[02:13:56] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/99527, l='ServerLevel[world]', x=-40.68, y=69.00, z=761.56] at TeleportTarget{pitch=23.79032, position=(-17.675961719291266, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-178.88779}
+[02:13:58] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:13:58] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[02:15:20] [dimthread_the_nether/INFO]: Herr_LiuJ was slain by Blaze
+[02:15:23] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[02:15:23] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:15:23] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[02:16:28] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/99527, l='ServerLevel[world]', x=-39.66, y=69.00, z=761.52] at TeleportTarget{pitch=16.945356, position=(-16.657568347218664, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-89.98544}
+[02:16:30] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:16:30] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[02:22:51] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/99527, l='ServerLevel[world]', x=-17.21, y=58.00, z=95.57] at TeleportTarget{pitch=-1.7534878, position=(-40.208354380224876, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=164.5937}
+[02:22:53] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:22:53] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[02:23:45] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[02:23:45] [Server thread/INFO]: Herr_LiuJ left the game
+[02:28:06] [User Authenticator #9/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[02:28:07] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:44793] logged in with entity id 102902 at (-145.37139920950827, 65.0, 810.3000000119209)
+[02:28:07] [Server thread/INFO]: Herr_LiuJ joined the game
+[02:28:07] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[02:28:08] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[02:28:09] [Netty Epoll Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[02:32:40] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-39.79, y=69.00, z=761.45] at TeleportTarget{pitch=39.98433, position=(-16.791137349789466, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-81.571625}
+[02:32:41] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:32:41] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[02:37:32] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-16.69, y=58.00, z=95.43] at TeleportTarget{pitch=22.553196, position=(-39.686174643135814, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=22.872864}
+[02:37:34] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:37:34] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[02:41:05] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-39.96, y=69.00, z=761.63] at TeleportTarget{pitch=17.029314, position=(-16.962945078604484, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-91.14447}
+[02:41:06] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:41:06] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[02:43:56] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-17.43, y=58.00, z=95.31] at TeleportTarget{pitch=36.1584, position=(-40.42964462999049, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-95.69946}
+[02:43:58] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[02:43:58] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[02:47:46] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[02:47:46] [Server thread/INFO]: Herr_LiuJ left the game
+[02:57:52] [User Authenticator #10/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[02:57:53] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:39825] logged in with entity id 106592 at (-146.1758473437757, 66.0, 810.1998451609188)
+[02:57:53] [Server thread/INFO]: Herr_LiuJ joined the game
+[02:57:53] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[02:57:54] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[02:57:55] [Netty Epoll Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[03:27:07] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[03:27:07] [Server thread/INFO]: Herr_LiuJ left the game
+[04:29:52] [User Authenticator #11/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[04:29:53] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:45403] logged in with entity id 113706 at (-151.61041133172017, 63.0, 826.4443873677026)
+[04:29:53] [Server thread/INFO]: Herr_LiuJ joined the game
+[04:29:53] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[04:29:54] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[04:29:55] [Netty Epoll Server IO #1/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[05:32:41] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-40.02, y=69.00, z=761.57] at TeleportTarget{pitch=32.638798, position=(-17.020065241649284, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-108.035736}
+[05:32:43] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[05:32:43] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[05:33:46] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-17.42, y=58.00, z=95.60] at TeleportTarget{pitch=44.99408, position=(-40.417591381915095, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-175.71115}
+[05:33:48] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[05:33:48] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[05:35:51] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-39.48, y=69.00, z=761.38] at TeleportTarget{pitch=40.569714, position=(-16.48245821197594, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=99.97952}
+[05:35:52] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[05:35:52] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[05:37:03] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-17.39, y=59.00, z=95.78] at TeleportTarget{pitch=57.26378, position=(-40.387291367893795, 70.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=176.52435}
+[05:37:05] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[05:37:05] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[05:39:29] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-40.29, y=69.00, z=761.19] at TeleportTarget{pitch=48.847298, position=(-17.289032040344992, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-93.56372}
+[05:39:30] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[05:39:30] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[05:40:31] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-17.62, y=58.00, z=95.52] at TeleportTarget{pitch=38.329643, position=(-40.62069068913301, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=166.84956}
+[05:40:33] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
+[05:40:33] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[08:21:17] [Server thread/INFO]: Herr_LiuJ has reached the goal [advancement.create.hand_crank_000]
+[08:26:34] [Server thread/INFO]: <Herr_LiuJ> ?
+[08:27:20] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[08:27:20] [Server thread/INFO]: Herr_LiuJ left the game
+[08:27:27] [User Authenticator #12/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[08:27:28] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:54691] logged in with entity id 170836 at (-137.4301300421351, 68.75, 859.0059144987106)
+[08:27:28] [Server thread/INFO]: Herr_LiuJ joined the game
+[08:27:28] [Netty Epoll Server IO #0/INFO]: [STDOUT]: VMP: Started priority handler
+[08:27:28] [Netty Epoll Server IO #0/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[08:27:29] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[08:31:43] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[08:31:43] [Server thread/INFO]: Herr_LiuJ left the game
+[08:32:32] [User Authenticator #13/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[08:32:32] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:19767] logged in with entity id 171551 at (-138.84068264295587, 68.0, 856.2896641550565)
+[08:32:32] [Server thread/INFO]: Herr_LiuJ joined the game
+[08:32:32] [Netty Epoll Server IO #0/INFO]: [STDOUT]: VMP: Started priority handler
+[08:32:33] [Netty Epoll Server IO #0/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[08:32:34] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[08:45:36] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[08:45:36] [Server thread/INFO]: Herr_LiuJ left the game
+[09:16:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bddf089[id=<null>,name=Herr_LiuJ,properties={},legacy=false] (/212.204.102.90:2786) lost connection: Disconnected
+[09:16:33] [User Authenticator #14/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[09:32:54] [User Authenticator #15/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[09:32:55] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:45129] logged in with entity id 173652 at (-132.76268106978443, 63.0, 868.8952291073473)
+[09:32:55] [Server thread/INFO]: Herr_LiuJ joined the game
+[09:32:55] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
+[09:32:56] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[09:32:57] [Netty Epoll Server IO #3/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[09:43:53] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[09:43:53] [Server thread/INFO]: Herr_LiuJ left the game
+[09:44:16] [User Authenticator #16/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[09:44:17] [Server thread/INFO]: Herr_LiuJ[/212.204.102.90:35695] logged in with entity id 175598 at (-125.71435411683814, 63.0, 851.7341523311919)
+[09:44:17] [Server thread/INFO]: Herr_LiuJ joined the game
+[09:44:17] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[09:44:18] [Netty Epoll Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[09:44:18] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[09:47:04] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[09:47:04] [Server thread/INFO]: Herr_LiuJ left the game
+[09:47:08] [User Authenticator #17/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[09:47:09] [Server thread/INFO]: Herr_LiuJ[/212.204.102.90:24550] logged in with entity id 176101 at (-124.13628947908057, 63.0, 849.856568011347)
+[09:47:09] [Server thread/INFO]: Herr_LiuJ joined the game
+[09:47:09] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
+[09:47:09] [Netty Epoll Server IO #1/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[09:47:10] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[09:51:14] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
+[09:51:14] [Server thread/INFO]: Herr_LiuJ left the game
+[10:15:02] [Server thread/INFO]: Stopping the server
+[10:15:02] [Server thread/INFO]: Stopping server
+[10:15:02] [Server thread/INFO]: Saving players
+[10:15:02] [Server thread/INFO]: Saving worlds
+[10:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:15:02] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[10:15:02] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2022.10.17_10-15-02
+[10:15:02] [Server thread/INFO]: [Textile Backup] Starting backup
+[10:15:21] [Server thread/INFO]: [Textile Backup] Compression took: 19.112 seconds.
+[10:15:21] [Server thread/INFO]: [Textile Backup] Deleting: 2022.10.15_22-59-29#shutdown.zip
+[10:15:21] [Server thread/INFO]: [Textile Backup] Done!
