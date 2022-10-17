@@ -1,168 +1,273 @@
-[00:53:57] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
-[00:53:57] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2022.10.17_00-53-57
-[00:53:57] [Server thread/INFO]: [Textile Backup] Saving server...
-[00:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:53:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:53:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:53:57] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
-[00:54:16] [pool-3-thread-1/INFO]: [Textile Backup] Compression took: 19.395 seconds.
-[00:54:16] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2022.10.15_03-04-53.zip
-[00:54:16] [pool-3-thread-1/INFO]: [Textile Backup] Done!
-[02:02:40] [User Authenticator #7/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[02:02:40] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:48085] logged in with entity id 98053 at (-125.46834939083443, 63.0, 850.5622419571907)
-[02:02:40] [Server thread/INFO]: Herr_LiuJ joined the game
-[02:02:40] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[02:02:41] [Netty Epoll Server IO #1/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[02:02:41] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[02:10:26] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/98053, l='ServerLevel[world]', x=-39.43, y=69.00, z=761.58] at TeleportTarget{pitch=15.0246525, position=(-16.426412189894798, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.97098}
-[02:10:27] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:10:27] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[02:11:15] [User Authenticator #8/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[02:11:15] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[02:11:15] [Server thread/INFO]: Herr_LiuJ left the game
-[02:11:15] [Server thread/WARN]: handleDisconnection() called twice
-[02:11:15] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:10769] logged in with entity id 99527 at (-131.7771343411261, 57.0, 155.45436352083857)
-[02:11:15] [Server thread/INFO]: Herr_LiuJ joined the game
-[02:11:15] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[02:11:16] [Netty Epoll Server IO #3/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[02:11:17] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[02:12:13] [Server thread/INFO]: Herr_LiuJ has made the advancement [A Terrible Fortress]
-[02:12:29] [Server thread/INFO]: Herr_LiuJ has made the advancement [Spooky Scary Skeleton]
-[02:13:01] [dimthread_the_nether/INFO]: Herr_LiuJ was slain by Wither Skeleton
-[02:13:03] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[02:13:03] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:13:03] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[02:13:56] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/99527, l='ServerLevel[world]', x=-40.68, y=69.00, z=761.56] at TeleportTarget{pitch=23.79032, position=(-17.675961719291266, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-178.88779}
-[02:13:58] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:13:58] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[02:15:20] [dimthread_the_nether/INFO]: Herr_LiuJ was slain by Blaze
-[02:15:23] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[02:15:23] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:15:23] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[02:16:28] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/99527, l='ServerLevel[world]', x=-39.66, y=69.00, z=761.52] at TeleportTarget{pitch=16.945356, position=(-16.657568347218664, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-89.98544}
-[02:16:30] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:16:30] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[02:22:51] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/99527, l='ServerLevel[world]', x=-17.21, y=58.00, z=95.57] at TeleportTarget{pitch=-1.7534878, position=(-40.208354380224876, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=164.5937}
-[02:22:53] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:22:53] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[02:23:45] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[02:23:45] [Server thread/INFO]: Herr_LiuJ left the game
-[02:28:06] [User Authenticator #9/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[02:28:07] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:44793] logged in with entity id 102902 at (-145.37139920950827, 65.0, 810.3000000119209)
-[02:28:07] [Server thread/INFO]: Herr_LiuJ joined the game
-[02:28:07] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[02:28:08] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[02:28:09] [Netty Epoll Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[02:32:40] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-39.79, y=69.00, z=761.45] at TeleportTarget{pitch=39.98433, position=(-16.791137349789466, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-81.571625}
-[02:32:41] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:32:41] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[02:37:32] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-16.69, y=58.00, z=95.43] at TeleportTarget{pitch=22.553196, position=(-39.686174643135814, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=22.872864}
-[02:37:34] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:37:34] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[02:41:05] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-39.96, y=69.00, z=761.63] at TeleportTarget{pitch=17.029314, position=(-16.962945078604484, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-91.14447}
-[02:41:06] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:41:06] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[02:43:56] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/102902, l='ServerLevel[world]', x=-17.43, y=58.00, z=95.31] at TeleportTarget{pitch=36.1584, position=(-40.42964462999049, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-95.69946}
-[02:43:58] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[02:43:58] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[02:47:46] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[02:47:46] [Server thread/INFO]: Herr_LiuJ left the game
-[02:57:52] [User Authenticator #10/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[02:57:53] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:39825] logged in with entity id 106592 at (-146.1758473437757, 66.0, 810.1998451609188)
-[02:57:53] [Server thread/INFO]: Herr_LiuJ joined the game
-[02:57:53] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[02:57:54] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[02:57:55] [Netty Epoll Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[03:27:07] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[03:27:07] [Server thread/INFO]: Herr_LiuJ left the game
-[04:29:52] [User Authenticator #11/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[04:29:53] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:45403] logged in with entity id 113706 at (-151.61041133172017, 63.0, 826.4443873677026)
-[04:29:53] [Server thread/INFO]: Herr_LiuJ joined the game
-[04:29:53] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[04:29:54] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[04:29:55] [Netty Epoll Server IO #1/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[05:32:41] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-40.02, y=69.00, z=761.57] at TeleportTarget{pitch=32.638798, position=(-17.020065241649284, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-108.035736}
-[05:32:43] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[05:32:43] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[05:33:46] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-17.42, y=58.00, z=95.60] at TeleportTarget{pitch=44.99408, position=(-40.417591381915095, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-175.71115}
-[05:33:48] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[05:33:48] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[05:35:51] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-39.48, y=69.00, z=761.38] at TeleportTarget{pitch=40.569714, position=(-16.48245821197594, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=99.97952}
-[05:35:52] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[05:35:52] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[05:37:03] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-17.39, y=59.00, z=95.78] at TeleportTarget{pitch=57.26378, position=(-40.387291367893795, 70.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=176.52435}
-[05:37:05] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[05:37:05] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[05:39:29] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-40.29, y=69.00, z=761.19] at TeleportTarget{pitch=48.847298, position=(-17.289032040344992, 58.0, 95.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-93.56372}
-[05:39:30] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[05:39:30] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[05:40:31] [Server thread/INFO]: Portal located for entity class_3222['Herr_LiuJ'/113706, l='ServerLevel[world]', x=-17.62, y=58.00, z=95.52] at TeleportTarget{pitch=38.329643, position=(-40.62069068913301, 69.0, 761.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=166.84956}
-[05:40:33] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Stopped priority handler, retained 0 packets
-[05:40:33] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[08:21:17] [Server thread/INFO]: Herr_LiuJ has reached the goal [advancement.create.hand_crank_000]
-[08:26:34] [Server thread/INFO]: <Herr_LiuJ> ?
-[08:27:20] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[08:27:20] [Server thread/INFO]: Herr_LiuJ left the game
-[08:27:27] [User Authenticator #12/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[08:27:28] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:54691] logged in with entity id 170836 at (-137.4301300421351, 68.75, 859.0059144987106)
-[08:27:28] [Server thread/INFO]: Herr_LiuJ joined the game
-[08:27:28] [Netty Epoll Server IO #0/INFO]: [STDOUT]: VMP: Started priority handler
-[08:27:28] [Netty Epoll Server IO #0/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[08:27:29] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[08:31:43] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[08:31:43] [Server thread/INFO]: Herr_LiuJ left the game
-[08:32:32] [User Authenticator #13/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[08:32:32] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:19767] logged in with entity id 171551 at (-138.84068264295587, 68.0, 856.2896641550565)
-[08:32:32] [Server thread/INFO]: Herr_LiuJ joined the game
-[08:32:32] [Netty Epoll Server IO #0/INFO]: [STDOUT]: VMP: Started priority handler
-[08:32:33] [Netty Epoll Server IO #0/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[08:32:34] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[08:45:36] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[08:45:36] [Server thread/INFO]: Herr_LiuJ left the game
-[09:16:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bddf089[id=<null>,name=Herr_LiuJ,properties={},legacy=false] (/212.204.102.90:2786) lost connection: Disconnected
-[09:16:33] [User Authenticator #14/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[09:32:54] [User Authenticator #15/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[09:32:55] [Server thread/INFO]: Herr_LiuJ[/117.50.156.148:45129] logged in with entity id 173652 at (-132.76268106978443, 63.0, 868.8952291073473)
-[09:32:55] [Server thread/INFO]: Herr_LiuJ joined the game
-[09:32:55] [Netty Epoll Server IO #3/INFO]: [STDOUT]: VMP: Started priority handler
-[09:32:56] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[09:32:57] [Netty Epoll Server IO #3/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[09:43:53] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[09:43:53] [Server thread/INFO]: Herr_LiuJ left the game
-[09:44:16] [User Authenticator #16/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[09:44:17] [Server thread/INFO]: Herr_LiuJ[/212.204.102.90:35695] logged in with entity id 175598 at (-125.71435411683814, 63.0, 851.7341523311919)
-[09:44:17] [Server thread/INFO]: Herr_LiuJ joined the game
-[09:44:17] [Netty Epoll Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
-[09:44:18] [Netty Epoll Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[09:44:18] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[09:47:04] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[09:47:04] [Server thread/INFO]: Herr_LiuJ left the game
-[09:47:08] [User Authenticator #17/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
-[09:47:09] [Server thread/INFO]: Herr_LiuJ[/212.204.102.90:24550] logged in with entity id 176101 at (-124.13628947908057, 63.0, 849.856568011347)
-[09:47:09] [Server thread/INFO]: Herr_LiuJ joined the game
-[09:47:09] [Netty Epoll Server IO #1/INFO]: [STDOUT]: VMP: Started priority handler
-[09:47:09] [Netty Epoll Server IO #1/INFO]: Player Herr_LiuJ joined with a matching carpet client
-[09:47:10] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
-[09:51:14] [Server thread/INFO]: Herr_LiuJ lost connection: Disconnected
-[09:51:14] [Server thread/INFO]: Herr_LiuJ left the game
-[10:15:02] [Server thread/INFO]: Stopping the server
-[10:15:02] [Server thread/INFO]: Stopping server
-[10:15:02] [Server thread/INFO]: Saving players
-[10:15:02] [Server thread/INFO]: Saving worlds
-[10:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10:15:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:15:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10:15:02] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
-[10:15:02] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2022.10.17_10-15-02
-[10:15:02] [Server thread/INFO]: [Textile Backup] Starting backup
-[10:15:21] [Server thread/INFO]: [Textile Backup] Compression took: 19.112 seconds.
-[10:15:21] [Server thread/INFO]: [Textile Backup] Deleting: 2022.10.15_22-59-29#shutdown.zip
-[10:15:21] [Server thread/INFO]: [Textile Backup] Done!
+[20:45:13] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.14.9
+[20:45:13] [ForkJoinPool-1-worker-9/WARN]: Mod com_github_wearblackallday_javautils uses the version bd58640372 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bd58640372'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:45:13] [ForkJoinPool-1-worker-11/WARN]: Mod gca uses the version 2.4.0-1.17&1.18 which isn't compatible with Loader's extended semantic version format (Invalid prerelease string '1.17&1.18'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:45:13] [ForkJoinPool-1-worker-8/WARN]: Mod create uses the version 0.5.0e-733 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0e'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:45:13] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_shevek_parallelgzip uses the version af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:45:13] [ForkJoinPool-1-worker-3/WARN]: Mod registrate-fabric uses the version MC1.18.2-1.1.4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'MC1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:45:13] [main/WARN]: Warnings were found!
+ - Mod 'Textile Backup' (textile_backup) 2.3.0-1.18 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[20:45:13] [main/INFO]: Loading 102 mods:
+	- adventure-platform-fabric 5.2.1 via minimotd-fabric
+	- architectury 4.9.84
+	- carpet 1.4.69
+	- carpet-extra 1.4.72
+	- carpet-tctc-addition 1.1.8+d0f86ca
+	- carpet-tis-addition 1.36.0
+	- chunky 1.2.164
+	- cloth-basic-math 0.6.0 via cloth-config
+	- cloth-config 6.2.57
+	- collective-fabric 4.26
+	- com_electronwill_night-config_core 3.6.3 via create
+	- com_electronwill_night-config_toml 3.6.3 via create
+	- com_github_llamalad7_mixinextras 0.0.11 via registrate-fabric
+	- com_github_shevek_parallelgzip af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6 via textile_backup
+	- com_github_wearblackallday_javautils bd58640372 via dimthread
+	- com_google_code_findbugs_jsr305 3.0.2 via create
+	- com_velocitypowered_velocity-native 1.1.0-SNAPSHOT via krypton
+	- conditional-mixin 0.3.0 via carpet-tis-addition
+	- create 0.5.0e-733
+	- dimthread 1.2.6-1.18.2-sand-duper-fix.2
+	- dripstone_fluid_lib 1.2.0 via milk
+	- error_notifier 1.0.9 via roughlyenoughitems
+	- fabric 0.58.0+1.18.2
+	- fabric-api-base 0.4.4+d7c144a860 via fabric
+	- fabric-api-lookup-api-v1 1.6.2+2373a54560 via fabric
+	- fabric-biome-api-v1 8.0.6+651bcc5960 via fabric
+	- fabric-command-api-v1 1.1.9+d7c144a860 via fabric
+	- fabric-commands-v0 0.2.8+b4f4f6cd60 via fabric
+	- fabric-containers-v0 0.1.23+d7c144a860 via fabric
+	- fabric-content-registries-v0 3.1.1+c85f2e3860 via fabric
+	- fabric-convention-tags-v1 1.0.1+474e4f7960 via fabric
+	- fabric-crash-report-info-v1 0.2.1+ee261a3e60 via fabric
+	- fabric-data-generation-api-v1 3.0.1+9fcb91d260 via fabric
+	- fabric-dimensions-v1 2.1.20+489d6f8260 via fabric
+	- fabric-entity-events-v1 1.4.8+d7c144a860 via fabric
+	- fabric-events-interaction-v0 0.4.19+d7c144a860 via fabric
+	- fabric-events-lifecycle-v0 0.2.19+d7c144a860 via fabric
+	- fabric-game-rule-api-v1 1.0.13+d7c144a860 via fabric
+	- fabric-item-api-v1 1.5.2+17cbbd4360 via fabric
+	- fabric-item-groups-v0 0.3.14+91896a4960 via fabric
+	- fabric-lifecycle-events-v1 2.1.0+cc71601c60 via fabric
+	- fabric-loot-api-v2 1.1.0+1997ad1260 via fabric
+	- fabric-loot-tables-v1 1.1.2+e747827960 via fabric
+	- fabric-mining-level-api-v1 2.1.4+cc71601c60 via fabric
+	- fabric-networking-api-v1 1.0.23+2d30af4b60 via fabric
+	- fabric-networking-v0 0.3.10+b4f4f6cd60 via fabric
+	- fabric-object-builder-api-v1 2.1.3+032c981d60 via fabric
+	- fabric-particles-v1 0.2.12+526dc1ac60 via fabric
+	- fabric-permissions-api-v0 0.1-SNAPSHOT via universal-graves
+	- fabric-registry-sync-v0 0.9.10+0d9ab37260 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.7+d7c144a860 via fabric
+	- fabric-rendering-fluids-v1 2.0.2+54e5b2ec60 via fabric
+	- fabric-resource-conditions-api-v1 2.0.3+91b7aa6660 via fabric
+	- fabric-resource-loader-v0 0.5.2+446e059560 via fabric
+	- fabric-screen-handler-api-v1 1.2.2+1f6558e860 via fabric
+	- fabric-transfer-api-v1 1.6.3+f4563ac860 via fabric
+	- fabric-transitive-access-wideners-v1 1.1.0+e747827960 via fabric
+	- fabricloader 0.14.9
+	- fake-player-api 0.3.0 via create
+	- ferritecore 4.2.1
+	- fiber 0.23.0-2 via collective-fabric
+	- forge_tags 2.1 via create
+	- forgeconfigapiport 3.2.0 via create
+	- gca 2.4.0-1.17&1.18
+	- hologram-api 0.2.1+1.18-pre5 via universal-graves
+	- java 17
+	- krypton 0.1.9
+	- lithium 0.7.10
+	- milk 0.3.2 via create
+	- minecraft 1.18.2
+	- minimotd-fabric 2.0.7
+	- mm 2.3 via porting_lib
+	- net_kyori_adventure-api 4.10.1 via adventure-platform-fabric
+	- net_kyori_adventure-key 4.10.1 via adventure-platform-fabric
+	- net_kyori_adventure-platform-api 4.1.0 via adventure-platform-fabric
+	- net_kyori_adventure-text-minimessage 4.10.1 via adventure-platform-fabric
+	- net_kyori_adventure-text-serializer-gson 4.10.1 via adventure-platform-fabric
+	- net_kyori_adventure-text-serializer-plain 4.10.1 via adventure-platform-fabric
+	- net_kyori_examination-api 1.3.0 via adventure-platform-fabric
+	- net_kyori_examination-string 1.3.0 via adventure-platform-fabric
+	- org_apache_commons_commons-compress 1.19 via textile_backup
+	- org_tukaani_xz 1.9 via textile_backup
+	- org_yaml_snakeyaml 1.30 via carpet-tis-addition
+	- packet_tweaker 0.3.0+1.18.2 via polymer
+	- pca 0.2.5-beta+8e41bb1
+	- placeholder-api 1.1.3+1.17.1 via universal-graves
+	- polymer 0.2.0-rc.2+1.18.2 via universal-graves
+	- polymer-legacy 0.1.9+0.2.0-rc.2+1.18.2 via polymer
+	- porting_lib 1.2.460-beta+1.18.2-dev.cca931b via create
+	- reach-entity-attributes 2.1.1 via create
+	- registrate-fabric MC1.18.2-1.1.4 via create
+	- roughlyenoughitems 8.3.549
+	- seedfix 1.0.1
+	- serialization_hooks 0.3.23 via porting_lib
+	- server_translations_api 1.4.12+1.18.2 via universal-graves
+	- servux 0.1.0
+	- sgui 1.0.2+1.18.2 via universal-graves
+	- starlight 1.0.2+fabric.89b8d9f
+	- syncmatica 0.3.5
+	- textile_backup 2.3.0-1.18
+	- universal-graves 2.0.3+1.18.2
+	- vmp 0.2.0+beta.3.87
+[20:45:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/F:/Minecraft/MF1182CTW/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[20:45:14] [main/INFO]: Compatibility level set to JAVA_16
+[20:45:14] [main/INFO]: Compatibility level set to JAVA_17
+[20:45:15] [main/INFO]: Loaded configuration file for Lithium: 102 options available, 2 override(s) found
+[20:45:15] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[20:45:15] [main/WARN]: Error loading class: net/minecraft/class_572 (java.lang.ClassNotFoundException: net/minecraft/class_572)
+[20:45:15] [main/WARN]: @Mixin target net.minecraft.class_572 was not found porting_lib.mixins.common.json:accessor.HumanoidModelAccessor from mod porting_lib
+[20:45:16] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[20:45:16] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton, vmp]) disables it and children
+[20:45:16] [main/WARN]: Error loading class: net/minecraft/class_5616 (java.lang.ClassNotFoundException: net/minecraft/class_5616)
+[20:45:16] [main/WARN]: @Mixin target net.minecraft.class_5616 was not found registrate-fabric.mixins.json:accessor.BlockEntityRenderersAccessor from mod registrate-fabric
+[20:45:16] [main/WARN]: Error loading class: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor (java.lang.ClassNotFoundException: com/ishland/c2me/notickvd/common/NoTickChunkSendingInterceptor)
+[20:45:26] [main/INFO]: [STDOUT]: Loading Collective (Fabric) version 4.26.
+[20:45:31] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[20:45:31] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:glass_bottle
+[20:45:31] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[20:45:31] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[20:45:31] [main/WARN]: Encountered duplicate API provider registration for item: minecraft:bucket
+[20:45:33] [main/INFO]: Compression will use Java 11, encryption will use Java
+[20:45:34] [main/INFO]: Done initializing MiniMOTD
+[20:45:34] [main/INFO]: Definitely not up to no good
+[20:45:34] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[20:45:34] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[20:45:34] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[20:45:34] [main/WARN]: The entrypoint used by Polymer (Core), "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[20:45:34] [main/WARN]: Rerached side issue when loading REI plugin by Polymer (Core). Please use "rei_server", "rei_client" or "rei_common" instead.
+[20:45:34] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[20:45:34] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[20:45:34] [main/WARN]: The entrypoint used by Polymer (Core), "rei" is deprecated and will be removed in a future version of Roughly Enough Items. Please use "rei_server", "rei_client" or "rei_common" instead.
+[20:45:34] [main/WARN]: Rerached side issue when loading REI plugin by Polymer (Core). Please use "rei_server", "rei_client" or "rei_common" instead.
+[20:45:34] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[20:45:34] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[20:45:34] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[20:45:34] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[20:45:34] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[20:45:34] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[20:45:34] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[20:45:34] [main/INFO]: Loaded seedfix v1.0.1 by Justsnoopy30!
+[20:45:35] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7439 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7519 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7438 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7494 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7618 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7597 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7617 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7640 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7495 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7472 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_7496 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_2755 not found for raknet multi-channel
+[20:45:35] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_2762 not found for raknet multi-channel
+[20:45:36] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_2698 not found for raknet multi-channel
+[20:45:36] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_2809 not found for raknet multi-channel
+[20:45:36] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_2644 not found for raknet multi-channel
+[20:45:36] [main/INFO]: [STDOUT]: Raknetify: Warning: net.minecraft.class_2730 not found for raknet multi-channel
+[20:45:37] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.18.2+build.4-v2.tiny loaded
+[20:45:37] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
+[20:45:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:45:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:45:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:45:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:45:45] [main/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:45] [main/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:45] [main/WARN]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:45] [main/WARN]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:45:47] [Worker-Main-13/INFO]: Loaded 22 recipes
+[20:45:48] [Worker-Main-13/INFO]: Loaded 2337 advancements
+[20:45:48] [Worker-Main-13/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 3 plugins in 190.2 ms.
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 3 plugins in 4.781 ms.
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 3 plugins in 132.9 ms.
+[20:45:49] [Worker-Main-13/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 3 plugins in 38.84 ms.
+[20:45:49] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 5200 translation keys
+[20:45:55] [main/INFO]: Applied 285 biome modifications to 145 of 158 new biomes in 49.54 ms
+[20:45:55] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[20:45:55] [Server thread/INFO]: Loading properties
+[20:45:55] [Server thread/INFO]: Default game type: SURVIVAL
+[20:45:55] [Server thread/INFO]: Generating keypair
+[20:45:55] [Server thread/INFO]: Starting Minecraft server on *:20118
+[20:45:55] [Server thread/INFO]: Using default channel type
+[20:45:57] [Server thread/INFO]: Preparing level "world"
+[20:45:57] [Server thread/INFO]: [CM]: loaded setting openFakePlayerInventory as true from carpet.conf
+[20:45:57] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[20:45:57] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[20:45:58] [Server thread/WARN]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.EntityTrackerMixin from mod lithium->@Redirect::useFasterCollection()Ljava/util/Set; with priority 1000, already redirected by krypton.mixins.json:shared.network.microopt.TacsTrackedEntityMixin from mod krypton->@Redirect::construct$useFastutil()Ljava/util/Set; with priority 1000
+[20:45:58] [Server thread/INFO]: Changing watch distance to 11
+[20:45:58] [Server thread/INFO]: Changing watch distance to 11
+[20:45:58] [Server thread/INFO]: Changing watch distance to 11
+[20:45:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:46:01] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:46:01] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[20:46:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:46:01] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[20:46:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:46:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:46:01] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[20:46:02] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[20:46:02] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[20:46:03] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[20:46:03] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[20:46:04] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:46:04] [Worker-Main-19/INFO]: Preparing spawn area: 1%
+[20:46:05] [Worker-Main-20/INFO]: Preparing spawn area: 4%
+[20:46:05] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[20:46:06] [Worker-Main-18/INFO]: Preparing spawn area: 19%
+[20:46:06] [Worker-Main-12/INFO]: Preparing spawn area: 26%
+[20:46:07] [Worker-Main-14/INFO]: Preparing spawn area: 36%
+[20:46:07] [Worker-Main-14/INFO]: Preparing spawn area: 45%
+[20:46:08] [Worker-Main-14/INFO]: Preparing spawn area: 58%
+[20:46:08] [Worker-Main-15/INFO]: Preparing spawn area: 68%
+[20:46:09] [Worker-Main-17/INFO]: Preparing spawn area: 79%
+[20:46:09] [Worker-Main-17/INFO]: Preparing spawn area: 91%
+[20:46:14] [Server thread/INFO]: Time elapsed: 16129 ms
+[20:46:14] [Server thread/INFO]: Done (17.365s)! For help, type "help"
+[20:46:18] [ForkJoinPool.commonPool-worker-1/INFO]: There is an update available for MiniMOTD!
+[20:46:18] [ForkJoinPool.commonPool-worker-1/INFO]: This server is running version v2.0.7, which is 2 versions outdated.
+[20:46:18] [ForkJoinPool.commonPool-worker-1/INFO]: Download the latest version, v2.0.9 from GitHub at the link below:
+[20:46:18] [ForkJoinPool.commonPool-worker-1/INFO]: https://github.com/jpenilla/MiniMOTD/releases/tag/v2.0.9
+[20:46:32] [User Authenticator #1/INFO]: UUID of player Herr_LiuJ is b5eabeab-4af2-421a-81d2-5918a8c3e025
+[20:46:33] [Server thread/INFO]: Herr_LiuJ[/127.0.0.1:13485] logged in with entity id 15 at (-127.23040852485323, 63.0, 849.7231953293729)
+[20:46:33] [Server thread/INFO]: Herr_LiuJ joined the game
+[20:46:33] [Netty Server IO #2/INFO]: [STDOUT]: VMP: Started priority handler
+[20:46:33] [Netty Server IO #2/INFO]: Player Herr_LiuJ joined with a matching carpet client
+[20:46:35] [Server thread/INFO]: Async chunk loading for player Herr_LiuJ completed
+[20:51:49] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[20:51:49] [Server thread/INFO]: [Textile Backup] Backup started from: Server Console on: 2022.10.17_20-51-49
+[20:51:49] [Server thread/INFO]: [Textile Backup] Saving server...
+[20:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:51:50] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[20:52:32] [pool-3-thread-1/INFO]: [Textile Backup] Compression took: 42.410 seconds.
+[20:52:32] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2022.10.17_00-53-57.zip
+[20:52:32] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[20:52:52] [Server thread/INFO]: Stopping the server
+[20:52:52] [Server thread/INFO]: Stopping server
+[20:52:52] [Server thread/INFO]: Saving players
+[20:52:53] [Server thread/INFO]: Saving worlds
+[20:52:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:52:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:52:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:52:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:52:54] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[20:52:54] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2022.10.17_20-52-54
+[20:52:54] [Server thread/INFO]: [Textile Backup] Starting backup
+[20:53:26] [Server thread/INFO]: [Textile Backup] Compression took: 32.113 seconds.
+[20:53:26] [Server thread/INFO]: [Textile Backup] Deleting: 2022.10.17_10-15-02#shutdown.zip
+[20:53:26] [Server thread/INFO]: [Textile Backup] Done!
